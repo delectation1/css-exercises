@@ -67,3 +67,6 @@ ul {
   margin-right: auto;
   gap: 16px;
 }
+
+/* should have combined the two properties above using chian selectors 
+to avoid duplicate code */
